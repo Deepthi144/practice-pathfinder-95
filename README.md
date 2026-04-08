@@ -2,7 +2,7 @@
 # Practice Pathfinder
 
 ## 🚀 Live Demo
-https://practice-pathfinder-95.vercel.app
+https://prepportal.lovable.app/login
 
 ## ⚙️ Run Locally
 npm install  
