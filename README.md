@@ -1,3 +1,9 @@
-# Welcome to your Lovable project
 
-TODO: Document your project here
+# Practice Pathfinder
+
+## 🚀 Live Demo
+https://practice-pathfinder-95.vercel.app
+
+## ⚙️ Run Locally
+npm install  
+npm run dev
